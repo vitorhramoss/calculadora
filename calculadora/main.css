@@ -1,0 +1,20 @@
+body{  
+    display: flex;
+    text-align: center;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.teste{
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+    margin-top: 80px;
+
+}
+button{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
